@@ -5,4 +5,4 @@ Git has a mutable index called stage.
 now i will test the remote push by myself.
 create a new branch 20190122.
 Create a branch is quick and simple.
-create a new branch dev.
+create new branch dev.
